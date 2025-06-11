@@ -1,0 +1,136 @@
+= 1.3.7 =
+* Fixed more than one text-domain issue
+
+= 1.3.6 =
+* Fixed some security issues
+
+= 1.3.5 =
+* Fixed Minor CSS 
+* Added Feature Image Option in Archive Page
+
+= 1.3.4 =
+* Fixed Minor JS 
+* Added Post Tag Show Hide Option in Single Page
+
+= 1.3.3 =
+* Fixed Minor CSS 
+* Added Post Image Show Hide Option in Single Page
+
+= 1.3.2 =
+* Fixed Minor CSS issues
+
+= 1.3.1 =
+* Minor bugs fixed
+
+= 1.3.0 =
+* Fixed Minor CSS Issues
+* Changed Screenshot Image 
+* Added Required Header Fields: `Tested up to` and `Requires PHP` in Style.css.
+
+
+= 1.2.9 =
+* Fixed Sanitization Issues
+* Added Meta Data Option for Single Post
+
+= 1.2.8 =
+* Added `wp_body_open` function to support WordPress 5.2 `wp_body_open` hook.
+* Added Skip to Link Content Option
+* Added CSS for Skip to Link Content
+
+= 1.2.7 =
+* Fixed js issues in Vmagazine Lite Ads Uploader 
+
+= 1.2.6 =
+* Fixed minor js issues
+* Added Date Show Hide Option in Archive Page
+
+= 1.2.5 =
+* Fixed issues with child themes
+
+= 1.2.4 =
+* Added New Welcome Page and removed old welcome page
+* Added Demo Importer
+
+= 1.2.3 =
+* Improved minor CSS
+* Updated Dynamic CSS 
+
+= 1.2.2 =
+* Fixed issues in single page
+* Minor CSS Improvements
+
+= 1.2.1 =
+* Refined Function for excerpt post
+
+= 1.2.0 =
+* Refined Functions for child theme
+
+= 1.1.9 =
+* Managed Customizer Options
+* Solved issues in Post Share Option
+
+= 1.1.8 =
+* Minor CSS Updates 
+* Screenshot Image Changed
+
+= 1.1.7 =
+* Added compatible for latest version of SiteOrigin
+* Solved Image Problem in Vmagazine Lite Multiple Category Tabbed Widget
+
+= 1.1.6 =
+* Minor CSS Updates
+* Screenshot Image Changed
+
+= 1.1.5 =
+* Added editor styles for Gutenberg
+* Minor CSS improvement
+
+= 1.1.4 =
+* Added Block Post Slider Widgets
+* Updated Minor Dynamic CSS
+
+= 1.1.3 =
+* Pot File updated
+* Theme option panel image issue fixed
+
+= 1.1.2 =
+* Minor CSS updates
+* Footer Credit link updated
+
+= 1.1.1 =
+* Screenshot changed
+* Theme Description updated
+
+= 1.1.0 =
+* Pot File updated
+* Minor setup in option panel
+
+= 1.0.9 =
+* Added Demo Import Functionality
+
+= 1.0.8 =
+* Minor Bug Fixed
+
+= 1.0.7 =
+* Minor Bug Fixed
+
+= 1.0.6 =
+* CSS Improvement 
+
+= 1.0.5 =
+* Minor Bug Fixed
+
+= 1.0.4 =
+* Dynamic CSS Improvement
+
+= 1.0.3 =
+* Minor Bug Fixed
+
+= 1.0.2 =
+* Minor Bug Fixed
+
+= 1.0.1 =
+* Minor Bug Fixed
+
+= 1.0.0 =
+* Initial release
